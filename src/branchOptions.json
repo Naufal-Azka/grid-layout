@@ -1,0 +1,282 @@
+{
+    "https://arknights.wiki.gg/images/e/e6/Caster.png": [
+        {
+            "name": "Core Caster",
+            "image": "https://arknights.wiki.gg/images/f/fd/Core_Caster.png"
+        },
+        {
+            "name": "Splash Caster",
+            "image": "https://arknights.wiki.gg/images/c/ca/Splash_Caster.png"
+        },
+        {
+            "name": "Blast Caster",
+            "image": "https://arknights.wiki.gg/images/9/93/Blast_Caster.png"
+        },
+        {
+            "name": "Chain Caster",
+            "image": "https://arknights.wiki.gg/images/2/2e/Chain_Caster.png"
+        },
+        {
+            "name": "Mech-Accord Caster",
+            "image": "https://arknights.wiki.gg/images/7/73/Mech-Accord_Caster.png"
+        },
+        {
+            "name": "Phalanx Caster",
+            "image": "https://arknights.wiki.gg/images/2/2f/Phalanx_Caster.png"
+        },
+        {
+            "name": "Mystic Caster",
+            "image": "https://arknights.wiki.gg/images/b/b5/Mystic_Caster.png"
+        },
+        {
+            "name": "Primal Caster",
+            "image": "https://arknights.wiki.gg/images/8/80/Primal_Caster.png"
+        },
+        {
+            "name": "Shaper Caster",
+            "image": "https://arknights.wiki.gg/images/f/fe/Shaper_Caster.png"
+        }
+    ],
+    "https://arknights.wiki.gg/images/0/0d/Defender.png": [
+        {
+            "name": "Protector Defender",
+            "image": "https://arknights.wiki.gg/images/f/f3/Protector_Defender.png"
+        },
+        {
+            "name": "Guardian Protector",
+            "image": "https://arknights.wiki.gg/images/8/8d/Guardian_Defender.png"
+        },
+        {
+            "name": "Juggernaut Defender",
+            "image": "https://arknights.wiki.gg/images/0/09/Juggernaut_Defender.png"
+        },
+        {
+            "name": "Arts Protector Defender",
+            "image": "https://arknights.wiki.gg/images/6/67/Arts_Protector_Defender.png"
+        },
+        {
+            "name": "Duelist Defender",
+            "image": "https://arknights.wiki.gg/images/2/25/Duelist_Defender.png"
+        },
+        {
+            "name": "Fortress Defender",
+            "image": "https://arknights.wiki.gg/images/c/c7/Fortress_Defender.png"
+        },
+        {
+            "name": "Sentry Protector Protector",
+            "image": "https://arknights.wiki.gg/images/f/fd/Sentry_Protector_Defender.png"
+        },
+        {
+            "name": "Primal Protector Defender",
+            "image": "https://arknights.wiki.gg/images/f/f6/Primal_Protector_Defender.png"
+        }
+    ],
+    "https://arknights.wiki.gg/images/7/74/Guard.png": [
+        {
+            "name": "Dreadnought Guard",
+            "image": "https://arknights.wiki.gg/images/2/2c/Dreadnought_Guard.png"
+        },
+        {
+            "name": "Centurion Guard",
+            "image": "https://arknights.wiki.gg/images/5/55/Centurion_Guard.png"
+        },
+        {
+            "name": "Lord Guard",
+            "image": "https://arknights.wiki.gg/images/9/94/Lord_Guard.png"
+        },
+        {
+            "name": "Arts Fighter Guard",
+            "image": "https://arknights.wiki.gg/images/f/f1/Arts_Fighter_Guard.png"
+        },
+        {
+            "name": "Instructor Guard",
+            "image": "https://arknights.wiki.gg/images/4/4e/Instructor_Guard.png"
+        },
+        {
+            "name": "Fighter Guard",
+            "image": "https://arknights.wiki.gg/images/4/40/Fighter_Guard.png"
+        },
+        {
+            "name": "Swordmaster Guard",
+            "image": "https://arknights.wiki.gg/images/d/d0/Swordmaster_Guard.png"
+        },
+        {
+            "name": "Soloblade Guard",
+            "image": "https://arknights.wiki.gg/images/f/f1/Soloblade_Guard.png"
+        },
+        {
+            "name": "Liberator Guard",
+            "image": "https://arknights.wiki.gg/images/c/c7/Liberator_Guard.png"
+        },
+        {
+            "name": "Reaper Guard",
+            "image": "https://arknights.wiki.gg/images/f/fc/Reaper_Guard.png"
+        },
+        {
+            "name": "Crusher Guard",
+            "image": "https://arknights.wiki.gg/images/b/b2/Crusher_Guard.png"
+        },
+        {
+            "name": "Earthshaker Guard",
+            "image": "https://arknights.wiki.gg/images/0/05/Earthshaker_Guard.png"
+        }
+    ],
+    "https://arknights.wiki.gg/images/2/26/Medic.png": [
+        {
+            "name": "Medic Medic",
+            "image": "https://arknights.wiki.gg/images/f/f1/Medic_Medic.png"
+        },
+        {
+            "name": "Multi-target Medic",
+            "image": "https://arknights.wiki.gg/images/e/ee/Multi-target_Medic.png"
+        },
+        {
+            "name": "Therapist Medic",
+            "image": "https://arknights.wiki.gg/images/9/98/Therapist_Medic.png"
+        },
+        {
+            "name": "Wandering Medic",
+            "image": "https://arknights.wiki.gg/images/e/e4/Wandering_Medic.png"
+        },
+        {
+            "name": "Incantation Medic",
+            "image": "https://arknights.wiki.gg/images/d/d8/Incantation_Medic.png"
+        },
+        {
+            "name": "Chain Medic",
+            "image": "https://arknights.wiki.gg/images/8/83/Chain_Medic.png"
+        }
+    ],
+    "https://arknights.wiki.gg/images/8/8f/Sniper.png": [
+        {
+            "name": "Marksman Sniper",
+            "image": "https://arknights.wiki.gg/images/d/d4/Marksman_Sniper.png"
+        },
+        {
+            "name": "Artillery Sniper",
+            "image": "https://arknights.wiki.gg/images/c/cd/Artilleryman_Sniper.png"
+        },
+        {
+            "name": "Deadeye Sniper",
+            "image": "https://arknights.wiki.gg/images/3/3b/Deadeye_Sniper.png"
+        },
+        {
+            "name": "Heavyshooter Sniper",
+            "image": "https://arknights.wiki.gg/images/a/a7/Heavyshooter_Sniper.png"
+        },
+        {
+            "name": "Spreadshooter Sniper",
+            "image": "https://arknights.wiki.gg/images/a/ad/Spreadshooter_Sniper.png"
+        },
+        {
+            "name": "Besieger Sniper",
+            "image": "https://arknights.wiki.gg/images/c/c0/Besieger_Sniper.png"
+        },
+        {
+            "name": "Flinger Sniper",
+            "image": "https://arknights.wiki.gg/images/1/15/Flinger_Sniper.png"
+        },
+        {
+            "name": "Hunter Sniper",
+            "image": "https://arknights.wiki.gg/images/2/2c/Hunter_Sniper.png"
+        },
+        {
+            "name": "Loopshooter Sniper",
+            "image": "https://arknights.wiki.gg/images/3/34/Loopshooter_Sniper.png"
+        }
+    ],
+    "https://arknights.wiki.gg/images/0/06/Specialist.png": [
+        {
+            "name": "Push Stroker Specialist",
+            "image": "https://arknights.wiki.gg/images/5/51/Push_Stroker_Specialist.png"
+        },
+        {
+            "name": "Hookmaster Specialist",
+            "image": "https://arknights.wiki.gg/images/e/e3/Hookmaster_Specialist.png"
+        },
+        {
+            "name": "Executor Specialist",
+            "image": "https://arknights.wiki.gg/images/8/8f/Executor_Specialist.png"
+        },
+        {
+            "name": "Ambusher Specialist",
+            "image": "https://arknights.wiki.gg/images/e/e6/Ambusher_Specialist.png"
+        },
+        {
+            "name": "Geek Specialist",
+            "image": "https://arknights.wiki.gg/images/f/fe/Geek_Specialist.png"
+        },
+        {
+            "name": "Merchant Specialist",
+            "image": "https://arknights.wiki.gg/images/9/99/Merchant_Specialist.png"
+        },
+        {
+            "name": "Trapmaster Specialist",
+            "image": "https://arknights.wiki.gg/images/f/fa/Trapmaster_Specialist.png"
+        },
+        {
+            "name": "Dollkeeper Specialist",
+            "image": "https://arknights.wiki.gg/images/8/86/Dollkeeper_Specialist.png"
+        },
+        {
+            "name": "Alchemist Specialist",
+            "image": "https://arknights.wiki.gg/images/7/77/Alchemist_Specialist.png"
+        },
+        {
+            "name": "Skyranger Specialist",
+            "image": "https://arknights.wiki.gg/images/1/14/Skyranger_Specialist.png"
+        }
+    ],
+    "https://arknights.wiki.gg/images/b/b6/Supporter.png": [
+        {
+            "name": "Decal Binder Supporter",
+            "image": "https://arknights.wiki.gg/images/6/67/Decel_Binder_Supporter.png"
+        },
+        {
+            "name": "Summoner Supporter",
+            "image": "https://arknights.wiki.gg/images/a/a9/Summoner_Supporter.png"
+        },
+        {
+            "name": "Hexer Supporter",
+            "image": "https://arknights.wiki.gg/images/f/fb/Hexer_Supporter.png"
+        },
+        {
+            "name": "Bard Supporter",
+            "image": "https://arknights.wiki.gg/images/b/bc/Bard_Supporter.png"
+        },
+        {
+            "name": "Abjurer Supporter",
+            "image": "https://arknights.wiki.gg/images/c/c3/Abjurer_Supporter.png"
+        },
+        {
+            "name": "Artificer Supporter",
+            "image": "https://arknights.wiki.gg/images/e/e7/Artificer_Supporter.png"
+        },
+        {
+            "name": "Ritualist Supporter",
+            "image": "https://arknights.wiki.gg/images/1/17/Ritualist_Supporter.png"
+        }
+    ],
+    "https://arknights.wiki.gg/images/f/fd/Vanguard.png": [
+        {
+            "name": "Pioneer Vanguard",
+            "image": "https://arknights.wiki.gg/images/5/57/Pioneer_Vanguard.png"
+        },
+        {
+            "name": "Charger Vanguard",
+            "image": "https://arknights.wiki.gg/images/6/61/Charger_Vanguard.png"
+        },
+        {
+            "name": "Standard Bearer Vanguard",
+            "image": "https://arknights.wiki.gg/images/9/9b/Standard_Bearer_Vanguard.png"
+        },
+        {
+            "name": "Tactician Vanguard",
+            "image": "https://arknights.wiki.gg/images/0/08/Tactician_Vanguard.png"
+        },
+        {
+            "name": "Agent Vanguard",
+            "image": "https://arknights.wiki.gg/images/0/0b/Agent_Vanguard.png"
+        }
+    ]
+}

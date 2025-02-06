@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Caster",
+        "image": "https://arknights.wiki.gg/images/e/e6/Caster.png"
+    },
+    {
+        "name": "Defender",
+        "image": "https://arknights.wiki.gg/images/0/0d/Defender.png"
+    },
+    {
+        "name": "Guard",
+        "image": "https://arknights.wiki.gg/images/7/74/Guard.png"
+    },
+    {
+        "name": "Medic",
+        "image": "https://arknights.wiki.gg/images/2/26/Medic.png"
+    },
+    {
+        "name": "Sniper",
+        "image": "https://arknights.wiki.gg/images/8/8f/Sniper.png"
+    },
+    {
+        "name": "Specialist",
+        "image": "https://arknights.wiki.gg/images/0/06/Specialist.png"
+    },
+    {
+        "name": "Supporter",
+        "image": "https://arknights.wiki.gg/images/b/b6/Supporter.png"
+    },
+    {
+        "name": "Vanguard",
+        "image": "https://arknights.wiki.gg/images/f/fd/Vanguard.png"
+    }
+]
