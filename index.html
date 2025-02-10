@@ -12,7 +12,6 @@
     <nav style="background-color: black; padding: .7rem;">
         <ul style=" display: flex; flex-direction: row; align-items: center; column-gap: .7rem;">
             <li id="add-btn" style="border: 1px solid gray; padding: .25rem; border-radius: 2px; height: 2rem; width: 2rem;"><img src="src/menu.svg" alt="" width="30" height="30"></li>
-            <!-- <li><img src="src/Site-logo.webp" alt="" width="55%"></li> -->
         </ul>
     </nav>
     <div style="height: 1px; background-color: grey;"></div>
@@ -88,15 +87,14 @@
         </div>
     </section>
 
-    <section class="modal" id="modal">
+    <section class="modal" id="modal-Character">
         <div class="modal-content">
-            <div style="display: flex; flex-direction: row;">
+            <div style="display: flex; flex-direction: row; justify-content: space-between;">
                 <h1 style="color: white;">Typhon | ★★★★★★</h1>
-                <span id="close-btn" class="close-btn">&times;</span>
+                <span id="close-btn-character" class="close-btn">&times;</span>
             </div>
             <img src="src/Typhon.png" alt="" class="char-img" style="border: 1px solid #FFC800;">
             <p style="color: white; text-align: center; padding-inline: 1rem; margin-block: 1rem;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, facere!</p>
-            <p style="color: white; text-align: center; font-style: italic; margin-block: 1rem;">Lorem ipsum dolor sit amet.</p>
             <table style="border: 1px solid #FFC800; width: 100%; background-color: #FFC80033; color: rgb(255, 255, 255); padding: .5rem 1rem;">
                 <tbody>
                     <tr style="font-size: 12px;">
@@ -137,14 +135,14 @@
         </div>
     </section>
 
-    <!-- <section class="modal" id="modal">
+    <section class="modal" id="modal-form">
         <div class="modal-content">
-            <span id="close-btn" class="close-btn">&times;</span>
-            <form action="" id="operator-form">
-                <div style="display: flex; flex-direction: column;">
-                    <label for="">image:</label>
+            <span id="close-btn-form" class="close-btn">&times;</span>
+            <form action="" id="operator-form" style="display: flex; flex-direction: column;">
+                <label for="operator-image">Image:</label>
+                <div class="input-file-wrapper">
                     <input type="file" id="operator-image" accept="image/*" required>
-                    <img src="#" alt="" style="background-color: black; height: 10rem;">
+                    <img src="#" alt="" id="image-preview" style="display: none;">
                 </div>
                 <div style="display: flex; flex-direction: column;">
                     <label for="operator-name">Operator Name:</label>
@@ -177,11 +175,11 @@
                     <textarea name="operator-desc" id="operator-desc" rows="6"></textarea>
                 </div>
                 <div style="display: flex; flex-direction: column;">
-                    <input type="button" placeholder="Add Operator">
+                    <button type="submit">Add Operator</button>
                 </div>
             </form>
         </div>
-    </section> -->
+    </section>
     <script src="index.js"></script>
 </body>
 
