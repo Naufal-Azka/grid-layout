@@ -1,5 +1,5 @@
 {
-    "https://arknights.wiki.gg/images/e/e6/Caster.png": [
+    "Caster": [
         {
             "name": "Core Caster",
             "image": "https://arknights.wiki.gg/images/f/fd/Core_Caster.png"
@@ -37,7 +37,7 @@
             "image": "https://arknights.wiki.gg/images/f/fe/Shaper_Caster.png"
         }
     ],
-    "https://arknights.wiki.gg/images/0/0d/Defender.png": [
+    "Defender": [
         {
             "name": "Protector Defender",
             "image": "https://arknights.wiki.gg/images/f/f3/Protector_Defender.png"
@@ -63,7 +63,7 @@
             "image": "https://arknights.wiki.gg/images/c/c7/Fortress_Defender.png"
         },
         {
-            "name": "Sentry Protector Protector",
+            "name": "Sentry Protector Defender",
             "image": "https://arknights.wiki.gg/images/f/fd/Sentry_Protector_Defender.png"
         },
         {
@@ -71,7 +71,7 @@
             "image": "https://arknights.wiki.gg/images/f/f6/Primal_Protector_Defender.png"
         }
     ],
-    "https://arknights.wiki.gg/images/7/74/Guard.png": [
+    "Guard": [
         {
             "name": "Dreadnought Guard",
             "image": "https://arknights.wiki.gg/images/2/2c/Dreadnought_Guard.png"
@@ -121,7 +121,7 @@
             "image": "https://arknights.wiki.gg/images/0/05/Earthshaker_Guard.png"
         }
     ],
-    "https://arknights.wiki.gg/images/2/26/Medic.png": [
+    "Medic": [
         {
             "name": "Medic Medic",
             "image": "https://arknights.wiki.gg/images/f/f1/Medic_Medic.png"
@@ -147,7 +147,7 @@
             "image": "https://arknights.wiki.gg/images/8/83/Chain_Medic.png"
         }
     ],
-    "https://arknights.wiki.gg/images/8/8f/Sniper.png": [
+    "Sniper": [
         {
             "name": "Marksman Sniper",
             "image": "https://arknights.wiki.gg/images/d/d4/Marksman_Sniper.png"
@@ -185,7 +185,7 @@
             "image": "https://arknights.wiki.gg/images/3/34/Loopshooter_Sniper.png"
         }
     ],
-    "https://arknights.wiki.gg/images/0/06/Specialist.png": [
+    "Specialist": [
         {
             "name": "Push Stroker Specialist",
             "image": "https://arknights.wiki.gg/images/5/51/Push_Stroker_Specialist.png"
@@ -227,7 +227,7 @@
             "image": "https://arknights.wiki.gg/images/1/14/Skyranger_Specialist.png"
         }
     ],
-    "https://arknights.wiki.gg/images/b/b6/Supporter.png": [
+    "Supporter": [
         {
             "name": "Decal Binder Supporter",
             "image": "https://arknights.wiki.gg/images/6/67/Decel_Binder_Supporter.png"
@@ -257,7 +257,7 @@
             "image": "https://arknights.wiki.gg/images/1/17/Ritualist_Supporter.png"
         }
     ],
-    "https://arknights.wiki.gg/images/f/fd/Vanguard.png": [
+    "Vanguard": [
         {
             "name": "Pioneer Vanguard",
             "image": "https://arknights.wiki.gg/images/5/57/Pioneer_Vanguard.png"
